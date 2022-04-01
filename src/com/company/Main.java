@@ -6,5 +6,6 @@ public class Main {
 	// write your code here
         System.out.println("Ova e vo master");
         System.out.println("sreda branch");
+        System.out.println("This is now ok");
     }
 }
